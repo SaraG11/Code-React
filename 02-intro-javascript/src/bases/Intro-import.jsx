@@ -1,6 +1,6 @@
 // import { heroes } from './data/heroes'
 
-import { heroes } from "./data/heroes"
+import { heroes } from "../data/heroes"
 
 
 const getHeroeById = (id) => {
